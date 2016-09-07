@@ -24,7 +24,7 @@ TARGET_CPU_ABI2 := armeabi
 TARGET_ARCH_VARIANT := armv7-a-neon
 
 # CMHW
-BOARD_HARDWARE_CLASS += hardware/samsung/cmhw
+#BOARD_HARDWARE_CLASS += hardware/samsung/cmhw
 
 # Graphics
 TARGET_USES_C2D_COMPOSITION := true
